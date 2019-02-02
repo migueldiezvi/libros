@@ -7,4 +7,3 @@ else
     git commit -m "automático"
     git push origin master
 fi
-git status
